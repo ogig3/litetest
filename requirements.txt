@@ -13,6 +13,7 @@ jupyterlite-javascript-kernel==0.3.0
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
+jupyterlab-language-pack-ja-JP
 
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
