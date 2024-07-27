@@ -31,6 +31,8 @@ jupyterlab-night
 jupyterlab_miami_nights
 # JupyterLab: indent guide (added by ogino)
 jupyterlab-indent-guides
+# Jupyterlab: variable inspector
+lckr_jupyterlab_variableinspector
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
